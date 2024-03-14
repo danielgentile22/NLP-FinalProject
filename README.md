@@ -13,3 +13,5 @@ python3 -m spacy download it_core_news_sm
 To load:
 (spacy.load('en_core_news_sm'))
 (spacy.load('it_core_news_sm'))
+
+pip install ipywidgets

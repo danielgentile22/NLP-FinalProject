@@ -15,3 +15,5 @@ To load:
 (spacy.load('it_core_news_sm'))
 
 pip install ipywidgets
+
+pip install nltk

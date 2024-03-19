@@ -153,3 +153,4 @@ cython_debug/
 europarl-v7.it-en.en
 europarl-v7.it-en.it
 it-en.tgz
+*.pkl

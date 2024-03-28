@@ -3,8 +3,8 @@
 
 Required installs:
 
-pip install torch
+pip install transformers
 
-pip install nltk
+pip install torch transformers
 
-nltk.download('punkt')
+pip install SentencePiece 

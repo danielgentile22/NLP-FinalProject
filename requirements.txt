@@ -1,0 +1,6 @@
+datasets==2.18.0
+matplotlib==3.8.2
+nltk==3.8.1
+numpy==1.26.4
+torch==2.2.2
+transformers==4.39.2
